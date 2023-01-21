@@ -59,14 +59,7 @@ function OffcanvasExample() {
             <Offcanvas.Body>
               <Nav className="justify-content-end flex-grow-1 pe-3">
                 <Container>
-                  <Row>
-                    <Col sm={1}>1 of 2</Col>
-                    <Col sm={1}>2 of 2</Col>
-                    <Col lg={2}>1 of 2</Col>
-                    <Col lg={2}>2 of 2</Col>
-                    <Col lg={3}>1 of 2</Col>
-                    <Col lg={3}>2 of 2</Col>
-                  </Row>
+               
                 </Container>
               </Nav>
             </Offcanvas.Body>
